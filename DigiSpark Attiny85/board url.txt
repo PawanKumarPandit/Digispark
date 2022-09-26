@@ -1,0 +1,12 @@
+first of all open Arduino ide and then go to preferences and then in additional board magae url paste this given url for Digispark :-
+-------------------------------------------------------------------------------------------------------------------------------------
+
+http://digistump.com/package_digistump_index.json
+
+* Tools - Board - Board Manager - Digistump AVR Boards
+
+* Tools - Board: - Digistump AVR Boards - Digispark Default 16.5mhz
+
+* Tools : Programmer - micronucleus
+
+ok
